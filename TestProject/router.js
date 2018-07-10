@@ -10,4 +10,6 @@ function route(handle,pathname,response){
     }
 }
 
+console.log('test 20180710')
+
 exports.route = route;
